@@ -130,6 +130,7 @@ void agregar (){
 	cout<<"Dame valores"<<endl;
 	cin>>valor;
 	//auxiliares
+	
 	aux= new nodos();
 	aux->valor;
 	aux->ptr=NULL;
